@@ -1,0 +1,80 @@
+# Mac system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+Icon?
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# Temporary files
+*.tmp
+*.temp
+.temp
+*.bak
+*.backup
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.npm
+.yarn-integrity
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+secrets/
+config/local.json
+
+# IDE and OS
+*.sublime-project
+*.sublime-workspace
+
+# Git
+.git/
