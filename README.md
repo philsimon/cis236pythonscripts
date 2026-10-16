@@ -70,6 +70,13 @@ Standalone error examples:
 | `simple_avg_threshhold.py` | Averages three input numbers and compares the result against an input threshold. |
 | `random.py` | Prints a random integer between 1 and 2112. |
 
+### Worked Examples
+
+| Script | Description |
+|---|---|
+| `scrabble_streak.py` | Calculates the consecutive wins needed to reach a target winning percentage. |
+| `basketball_stats.py` | Collects shots and makes for each game, then prints a per-game grid with a total row. |
+
 ## License
 
 GNU General Public License v3.0. See `LICENSE`.
